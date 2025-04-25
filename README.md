@@ -1,1 +1,1 @@
-# Ejercicios-Pr-cticos-de-Python
+# Ejercicios-Prácticos-de-Python
